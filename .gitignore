@@ -1,0 +1,8 @@
+*.bak
+*.log
+images/*.jpeg
+videos/*.mp4
+sounds/*.mp3
+*.php
+!index.php
+[aeiou]*.txt
